@@ -8,7 +8,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint || true",
+    "lint": "next lint",
     "generate-icons": "node generate-icons-data.js",
     "format": "prettier --write .",
     "prepare": "husky install"

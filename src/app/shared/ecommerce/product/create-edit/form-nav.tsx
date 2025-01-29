@@ -58,7 +58,7 @@ export default function FormNav({ className }: FormNavProps) {
       )}
     >
       <SimpleBar>
-        {/* <div className="inline-grid grid-flow-col gap-5 md:gap-7 lg:gap-10">
+        <div className="inline-grid grid-flow-col gap-5 md:gap-7 lg:gap-10">
           {menuItems.map((tab, idx) => (
             <Link
               key={tab.value}
@@ -74,7 +74,7 @@ export default function FormNav({ className }: FormNavProps) {
               {tab.label}
             </Link>
           ))}
-        </div> */}
+        </div>
       </SimpleBar>
     </div>
   );
