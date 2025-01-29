@@ -139,13 +139,13 @@ export const menuItemsHaydrogen = [
     permitions: '',
     nameAr: 'المزايا',
   },
-  //   {
-  //   name: 'Brand',
-  //   nameAr: 'العلامات التجارية',
-  //   href: '/brands',
-  //   icon: <AiOutlineProject />,
-  //   permitions: 'all_brands',
-  // },
+    {
+    name: 'Brand',
+    nameAr: 'العلامات التجارية',
+    href: '/brands',
+    icon: <AiOutlineProject />,
+    permitions: 'all_brands',
+  },
     {
     name: 'Product',
     nameAr: 'المنتجات',
